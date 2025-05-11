@@ -1,0 +1,15 @@
+artifact_uri: file:///home/robin/mlflow/mlflow_1_wine_data/mlruns/533041666994102533/173e47e2cf8e47259f6fba75aafbac8d/artifacts
+end_time: 1746958254190
+entry_point_name: ''
+experiment_id: '533041666994102533'
+lifecycle_stage: active
+run_id: 173e47e2cf8e47259f6fba75aafbac8d
+run_name: secretive-tern-15
+run_uuid: 173e47e2cf8e47259f6fba75aafbac8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746958248913
+status: 3
+tags: []
+user_id: robin
